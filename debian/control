@@ -1,0 +1,12 @@
+Source: flutter-engine
+Section: misc
+Priority: optional
+Maintainer: Thomas Bonnefille <thomas.bonnefille@bootlin.com>
+Build-Depends: ninja-build,pkg-config,debhelper,python3,libfontconfig1-dev
+Homepage: 
+Standards-Version: 1.0.0
+
+Package: flutter-engine
+Architecture: any
+Depends: 
+Description: Flutter engine
